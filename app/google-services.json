@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "861729397025",
+    "firebase_url": "https://proyectouber-dd701.firebaseio.com",
+    "project_id": "proyectouber-dd701",
+    "storage_bucket": "proyectouber-dd701.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:861729397025:android:b40ecb2bd7f3778e",
+        "android_client_info": {
+          "package_name": "com.example.adrianmontes.proyectouber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "861729397025-41rf5s5nkth8v740nq8r2gbde5lj52e7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.adrianmontes.proyectouber",
+            "certificate_hash": "813f1b5409ed5b53bf586cd5b34da602c6e2827e"
+          }
+        },
+        {
+          "client_id": "861729397025-4lqpe65t9rqvq273r2p0171mf8r2k1vb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVQp5jfxt1g24qggGoBe0i9CbW3TfC3NM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "861729397025-4lqpe65t9rqvq273r2p0171mf8r2k1vb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
